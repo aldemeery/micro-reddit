@@ -12,3 +12,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Models and migrations.
 - User model validations.
 - Updated Posts validations.
+- Updated Comments validations.
